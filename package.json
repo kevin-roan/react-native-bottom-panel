@@ -1,6 +1,6 @@
 {
   "name": "react-native-bottom-panel",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": " Animated bottom sheet for React Native, built with React Native Reanimated and TypeScript.",
   "license": "MIT",
   "main": "lib/commonjs/index.js",
